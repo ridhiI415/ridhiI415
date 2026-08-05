@@ -321,7 +321,7 @@ current_focus:
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:ridhig251@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/ridhigupta-526540361">
@@ -330,7 +330,7 @@ current_focus:
 <a href="https://github.com/ridhiI415">
   <img src="https://img.shields.io/badge/GitHub-2E1065?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://your-portfolio-link.com">
+<a href="https://ridhigupta.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
